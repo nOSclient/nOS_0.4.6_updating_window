@@ -7,9 +7,10 @@ SHA256 Checksums:
 
 Windows:
        7167ebfd4f0e1e82968e4c5a75b75649d85336ad60806fb3b2c49dade9a55710
-macOS: 
-      16fb59b02ed536e0cdf6a99c59559d7f3bcafed7df6fbcec372d7991636c5dfb
-Linux (AppImage): 
-      bdd201085c076ed460ad4e1619036ac42ab744128d6ea21f0b448a79df37bf5b
-Linux (snap): 
-      09128dac315647bcf9b90ede13b87bab634a94b51bc097ce770f92a9c30f0e85
+nOS
+
+nOS is a NEO-powered virtual operating system that serves as the gateway to the Blockchain-powered Smart Economy.
+
+The nOS Client (Developer MVP Release) allows for the development of Decentralized Applications that interact with Smart Contracts in the back-end.
+
+Getting Started with nOS The standalone client installers can be found here. To build manually, the client can be cloned from GitHub and run using the development steps below.
